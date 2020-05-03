@@ -1,2 +1,0 @@
-# Ririn
-Belajar pengembnagan web
